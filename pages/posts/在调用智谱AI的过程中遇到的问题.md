@@ -10,7 +10,7 @@
 
 - *阿里*👋：https://bailian.console.aliyun.com/?spm=5176.29597918.J_C-NDPSQ8SFKWB4aef8i6I.1.1ff37b085DA5ui&tab=doc#/doc/?type=model&url=2873061（阿里属于是最熟悉的了）
 
-  ![image-20251018124753051](/images/image-20251018124753051.png)
+  ![image-20251018124753051](/BlogANnian/images/image-20251018124753051.png)
 
 - *可灵👋：*https://klingai.com/cn/dev/model/video（完全付费，一次性付清，有钱可尝试，画面生成的确实挺好的）
 
@@ -37,7 +37,7 @@
 
 ### 2.1 [生成视频(异步)](https://docs.bigmodel.cn/api-reference/%E6%A8%A1%E5%9E%8B-api/%E7%94%9F%E6%88%90%E8%A7%86%E9%A2%91%E5%BC%82%E6%AD%A5) 
 
-![image-20251018125650377](/images/image-20251018125650377.png)
+![image-20251018125650377](/BlogANnian/images/image-20251018125650377.png)
 
 我需要用的请求参数如下（初步实现）：
 
@@ -62,7 +62,7 @@ aspect-ratio
 
 ### 2.2 [查询异步结果](https://docs.bigmodel.cn/api-reference/%E6%A8%A1%E5%9E%8B-api/%E6%9F%A5%E8%AF%A2%E5%BC%82%E6%AD%A5%E7%BB%93%E6%9E%9C)
 
-![image-20251018130200012](/images/image-20251018130200012.png)
+![image-20251018130200012](/BlogANnian/images/image-20251018130200012.png)
 
 我需要的返回响应是
 
@@ -91,7 +91,7 @@ export interface VideoResultResponse {
 
 [进入API使用指南](https://docs.bigmodel.cn/cn/api/introduction#java-sdk)
 
-![image-20251018130925383](/images/image-20251018130925383.png)
+![image-20251018130925383](/BlogANnian/images/image-20251018130925383.png)
 
 引入依赖
 
@@ -122,7 +122,7 @@ public class VideoAIConfig {
 
 这里的apiKey通过spring的自动装配，需要在applicant.yaml中写入apikey
 
-![image-20251018131103807](/images/image-20251018131103807.png)
+![image-20251018131103807](/BlogANnian/images/image-20251018131103807.png)
 
 关于怎么获取apikey ----> [点击这里](https://bigmodel.cn/usercenter/proj-mgmt/apikeys)
 
@@ -533,13 +533,13 @@ public class VideoModelController {
 
 ## 4、😃展示效果
 
-![image-20251018143652929](/images/image-20251018143652929.png)
+![image-20251018143652929](/BlogANnian/images/image-20251018143652929.png)
 
-![image-20251018143715266](/images/image-20251018143715266.png)
+![image-20251018143715266](/BlogANnian/images/image-20251018143715266.png)
 
 >当然最后的结果很抽象，毕竟是免费的模型💡🎉💡🎉💡🎉
 
-![image-20251018144208516](/images/image-20251018144208516.png)
+![image-20251018144208516](/BlogANnian/images/image-20251018144208516.png)
 
 
 
@@ -708,11 +708,11 @@ getTaskResult2: 使用SDK标准化处理，维护性更好
 
 **ps：这里不要看数据库的log，因为我后面将配置类取消换成在数据库里面配置大模型的相关参数了**
 
-![image-20251018154904805](/images/image-20251018154904805.png)
+![image-20251018154904805](/BlogANnian/images/image-20251018154904805.png)
 
 =发送生成请求=
 
-![image-20251018152440769](/images/image-20251018152440769.png)
+![image-20251018152440769](/BlogANnian/images/image-20251018152440769.png)
 
 >是不是发现了因为前端的轮询，ZAI总是在初始化，那不对啊，重复创建多个相同的 ZhipuAiClient 实例造成资源浪费（如果不小心对client中的apikey做出改变，还会造成token的变化，要是用的付费的可就完蛋喽，等着收到欠费通知吧，哈哈哈）
 
@@ -875,4 +875,4 @@ private ZhipuAiClient getZhipuAiClient() {
 
 想把每个问题都讲清楚，写一次文章还是不太容易，希望能够帮助到更多人，也是对自己操作的回顾与反思。
 
-![63b4e6706164969c09ae26abca83e6c4](/images/63b4e6706164969c09ae26abca83e6c4.jpg)
+![63b4e6706164969c09ae26abca83e6c4](/BlogANnian/images/63b4e6706164969c09ae26abca83e6c4.jpg)
