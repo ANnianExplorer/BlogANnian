@@ -1,0 +1,94 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+    <id>https://ANnianExplorer.github.io/BlogANnian/</id>
+    <title>ANnianExplorer の博客</title>
+    <updated>2026-04-29T16:03:55.249Z</updated>
+    <generator>https://github.com/jpmonette/feed</generator>
+    <author>
+        <name>ANnianExplorer</name>
+        <email>i@valaxy.site</email>
+        <uri>https://valaxy.site</uri>
+    </author>
+    <link rel="alternate" href="https://ANnianExplorer.github.io/BlogANnian/"/>
+    <link rel="self" href="https://ANnianExplorer.github.io/BlogANnian/atom.xml"/>
+    <subtitle>ANnianExplorer 的个人博客</subtitle>
+    <logo>https://ANnianExplorer.github.io/BlogANnian/images/avatar/1.png</logo>
+    <icon>https://ANnianExplorer.github.io/BlogANnian/favicon.svg</icon>
+    <rights>CC BY-NC-SA 4.0 2026 © ANnianExplorer</rights>
+    <entry>
+        <title type="html"><![CDATA[提交邮箱和 GitHub 账号邮箱不一致]]></title>
+        <id>https://ANnianExplorer.github.io/BlogANnian/posts/提交邮箱和 GitHub 账号邮箱不一致</id>
+        <link href="https://ANnianExplorer.github.io/BlogANnian/posts/提交邮箱和 GitHub 账号邮箱不一致"/>
+        <updated>2026-03-12T00:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Solution for GitHub account email mismatch]]></summary>
+        <content type="html"><![CDATA[<h1>提交邮箱和 GitHub 账号邮箱不一致</h1>
+<p>为什么我提交git之后，我的主页中没有展示出来我今天的活跃</p>
+<blockquote>
+<p>Copilot said: 出现这种情况，可能有以下常见原因：</p>
+</blockquote>
+<h2>1. 提交邮</h2>
+<br/><p>访问 <a href="https://ANnianExplorer.github.io/BlogANnian/posts/提交邮箱和 GitHub 账号邮箱不一致" target="_blank">https://ANnianExplorer.github.io/BlogANnian/posts/提交邮箱和 GitHub 账号邮箱不一致</a> 阅读全文。</p>]]></content>
+        <author>
+            <name>ANnianExplorer</name>
+            <email>i@valaxy.site</email>
+            <uri>https://valaxy.site</uri>
+        </author>
+        <published>2026-03-12T00:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[阿里云百炼-实现语音克隆]]></title>
+        <id>https://ANnianExplorer.github.io/BlogANnian/posts/阿里云百炼-实现语音克隆</id>
+        <link href="https://ANnianExplorer.github.io/BlogANnian/posts/阿里云百炼-实现语音克隆"/>
+        <updated>2025-11-23T00:00:00.000Z</updated>
+        <content type="html"><![CDATA[<h1>阿里云百炼-实现语音克隆</h1>
+<p><img src="https://ANnianExplorer.github.io/BlogANnian/images/image-20251123181310950.png" alt="image-20251123181310950"></p>
+<h2>问题1❌</h2>
+<blockquote>
+<p>遇到的第一个问题</p>
+</blockquote>
+<br/><p>访问 <a href="https://ANnianExplorer.github.io/BlogANnian/posts/阿里云百炼-实现语音克隆" target="_blank">https://ANnianExplorer.github.io/BlogANnian/posts/阿里云百炼-实现语音克隆</a> 阅读全文。</p>]]></content>
+        <author>
+            <name>ANnianExplorer</name>
+            <email>i@valaxy.site</email>
+            <uri>https://valaxy.site</uri>
+        </author>
+        <published>2025-11-23T00:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[智谱大模型实现文生视频案例]]></title>
+        <id>https://ANnianExplorer.github.io/BlogANnian/posts/在调用智谱AI的过程中遇到的问题</id>
+        <link href="https://ANnianExplorer.github.io/BlogANnian/posts/在调用智谱AI的过程中遇到的问题"/>
+        <updated>2025-10-18T00:00:00.000Z</updated>
+        <content type="html"><![CDATA[<h1>智谱大模型实现文生视频案例</h1>
+<blockquote>
+<p>随着大模型的愈发成熟，从最开始的文本对话到文生图，再到现在的多模态，让人不得不感慨AI大模型的强大与便捷。本文将介绍在实际使用智谱AI完成视频生成的案例，记录自己</p>
+</blockquote>
+<br/><p>访问 <a href="https://ANnianExplorer.github.io/BlogANnian/posts/在调用智谱AI的过程中遇到的问题" target="_blank">https://ANnianExplorer.github.io/BlogANnian/posts/在调用智谱AI的过程中遇到的问题</a> 阅读全文。</p>]]></content>
+        <author>
+            <name>ANnianExplorer</name>
+            <email>i@valaxy.site</email>
+            <uri>https://valaxy.site</uri>
+        </author>
+        <published>2025-10-18T00:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Hello World]]></title>
+        <id>https://ANnianExplorer.github.io/BlogANnian/posts/hello-world</id>
+        <link href="https://ANnianExplorer.github.io/BlogANnian/posts/hello-world"/>
+        <updated>2025-04-29T00:00:00.000Z</updated>
+        <content type="html"><![CDATA[<h1>Hello World</h1>
+<p>欢迎来到我的博客！</p>
+<p>这是第一篇博客文章，使用 <strong>Valaxy + Sakura</strong> 主题搭建。</p>
+<blockquote>
+<p>记录学习过程中的点点滴滴，期待与大家交流分享。</p>
+</blockquote>
+<h2>关于我</h2>
+<br/><p>访问 <a href="https://ANnianExplorer.github.io/BlogANnian/posts/hello-world" target="_blank">https://ANnianExplorer.github.io/BlogANnian/posts/hello-world</a> 阅读全文。</p>]]></content>
+        <author>
+            <name>ANnianExplorer</name>
+            <email>i@valaxy.site</email>
+            <uri>https://valaxy.site</uri>
+        </author>
+        <published>2025-04-29T00:00:00.000Z</published>
+    </entry>
+</feed>

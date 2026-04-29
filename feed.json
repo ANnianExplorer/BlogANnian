@@ -1,0 +1,63 @@
+{
+    "version": "https://jsonfeed.org/version/1",
+    "title": "ANnianExplorer の博客",
+    "home_page_url": "https://ANnianExplorer.github.io/BlogANnian/",
+    "feed_url": "https://ANnianExplorer.github.io/BlogANnian/feed.json",
+    "description": "ANnianExplorer 的个人博客",
+    "icon": "https://ANnianExplorer.github.io/BlogANnian/images/avatar/1.png",
+    "author": {
+        "name": "ANnianExplorer",
+        "url": "https://valaxy.site"
+    },
+    "items": [
+        {
+            "id": "https://ANnianExplorer.github.io/BlogANnian/posts/提交邮箱和 GitHub 账号邮箱不一致",
+            "content_html": "<h1>提交邮箱和 GitHub 账号邮箱不一致</h1>\n<p>为什么我提交git之后，我的主页中没有展示出来我今天的活跃</p>\n<blockquote>\n<p>Copilot said: 出现这种情况，可能有以下常见原因：</p>\n</blockquote>\n<h2>1. 提交邮</h2>\n<br/><p>访问 <a href=\"https://ANnianExplorer.github.io/BlogANnian/posts/提交邮箱和 GitHub 账号邮箱不一致\" target=\"_blank\">https://ANnianExplorer.github.io/BlogANnian/posts/提交邮箱和 GitHub 账号邮箱不一致</a> 阅读全文。</p>",
+            "url": "https://ANnianExplorer.github.io/BlogANnian/posts/提交邮箱和 GitHub 账号邮箱不一致",
+            "title": "提交邮箱和 GitHub 账号邮箱不一致",
+            "summary": "Solution for GitHub account email mismatch",
+            "date_modified": "2026-03-12T00:00:00.000Z",
+            "date_published": "2026-03-12T00:00:00.000Z",
+            "author": {
+                "name": "ANnianExplorer",
+                "url": "https://valaxy.site"
+            }
+        },
+        {
+            "id": "https://ANnianExplorer.github.io/BlogANnian/posts/阿里云百炼-实现语音克隆",
+            "content_html": "<h1>阿里云百炼-实现语音克隆</h1>\n<p><img src=\"https://ANnianExplorer.github.io/BlogANnian/images/image-20251123181310950.png\" alt=\"image-20251123181310950\"></p>\n<h2>问题1❌</h2>\n<blockquote>\n<p>遇到的第一个问题</p>\n</blockquote>\n<br/><p>访问 <a href=\"https://ANnianExplorer.github.io/BlogANnian/posts/阿里云百炼-实现语音克隆\" target=\"_blank\">https://ANnianExplorer.github.io/BlogANnian/posts/阿里云百炼-实现语音克隆</a> 阅读全文。</p>",
+            "url": "https://ANnianExplorer.github.io/BlogANnian/posts/阿里云百炼-实现语音克隆",
+            "title": "阿里云百炼-实现语音克隆",
+            "date_modified": "2025-11-23T00:00:00.000Z",
+            "date_published": "2025-11-23T00:00:00.000Z",
+            "author": {
+                "name": "ANnianExplorer",
+                "url": "https://valaxy.site"
+            }
+        },
+        {
+            "id": "https://ANnianExplorer.github.io/BlogANnian/posts/在调用智谱AI的过程中遇到的问题",
+            "content_html": "<h1>智谱大模型实现文生视频案例</h1>\n<blockquote>\n<p>随着大模型的愈发成熟，从最开始的文本对话到文生图，再到现在的多模态，让人不得不感慨AI大模型的强大与便捷。本文将介绍在实际使用智谱AI完成视频生成的案例，记录自己</p>\n</blockquote>\n<br/><p>访问 <a href=\"https://ANnianExplorer.github.io/BlogANnian/posts/在调用智谱AI的过程中遇到的问题\" target=\"_blank\">https://ANnianExplorer.github.io/BlogANnian/posts/在调用智谱AI的过程中遇到的问题</a> 阅读全文。</p>",
+            "url": "https://ANnianExplorer.github.io/BlogANnian/posts/在调用智谱AI的过程中遇到的问题",
+            "title": "智谱大模型实现文生视频案例",
+            "date_modified": "2025-10-18T00:00:00.000Z",
+            "date_published": "2025-10-18T00:00:00.000Z",
+            "author": {
+                "name": "ANnianExplorer",
+                "url": "https://valaxy.site"
+            }
+        },
+        {
+            "id": "https://ANnianExplorer.github.io/BlogANnian/posts/hello-world",
+            "content_html": "<h1>Hello World</h1>\n<p>欢迎来到我的博客！</p>\n<p>这是第一篇博客文章，使用 <strong>Valaxy + Sakura</strong> 主题搭建。</p>\n<blockquote>\n<p>记录学习过程中的点点滴滴，期待与大家交流分享。</p>\n</blockquote>\n<h2>关于我</h2>\n<br/><p>访问 <a href=\"https://ANnianExplorer.github.io/BlogANnian/posts/hello-world\" target=\"_blank\">https://ANnianExplorer.github.io/BlogANnian/posts/hello-world</a> 阅读全文。</p>",
+            "url": "https://ANnianExplorer.github.io/BlogANnian/posts/hello-world",
+            "title": "Hello World",
+            "date_modified": "2025-04-29T00:00:00.000Z",
+            "date_published": "2025-04-29T00:00:00.000Z",
+            "author": {
+                "name": "ANnianExplorer",
+                "url": "https://valaxy.site"
+            }
+        }
+    ]
+}
