@@ -18,8 +18,6 @@ description: 文章描述
 
 内容...
 
-![图片](/images/demo.png)
-
 ```代码
 console.log('Hello World')
 ```
