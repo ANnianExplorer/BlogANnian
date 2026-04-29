@@ -3,6 +3,7 @@ import { defineValaxyConfig } from 'valaxy'
 
 export default defineValaxyConfig<ThemeUserConfig>({
   theme: 'sakura',
+  base: '/BlogANnian/',
   themeConfig: {
     ui: {
       primary: '#2563eb',
