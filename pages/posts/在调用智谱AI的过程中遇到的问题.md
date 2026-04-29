@@ -1,3 +1,14 @@
+---
+title: 智谱大模型实现文生视频案例
+date: 2025-10-18
+tags:
+  - AI
+  - 视频
+categories:
+  - 技术
+cover: https://valaxy-theme-sakura.s3.bitiful.net/wallpaper-2025%2Fwallhaven-858k3j.jpg
+---
+
 # 智谱大模型实现文生视频案例
 
 >随着大模型的愈发成熟，从最开始的文本对话到文生图，再到现在的多模态，让人不得不感慨AI大模型的强大与便捷。本文将介绍在实际使用智谱AI完成视频生成的案例，记录自己的编程经历😋😋😋
