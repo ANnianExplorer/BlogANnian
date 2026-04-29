@@ -7,7 +7,7 @@ tags:
   - 博客搭建
 categories:
   - 技术
-cover: /images/opencode/PixPin_2026-04-30_01-42-15.png
+cover: https://valaxy-theme-sakura.s3.bitiful.net/wallpaper-2025%2Fwallhaven-858k3j.jpg
 ---
 
 # 使用 Opencode 构建 Valaxy Sakura 主题博客全记录
