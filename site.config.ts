@@ -1,7 +1,7 @@
 import { defineSiteConfig } from 'valaxy'
 
 export default defineSiteConfig({
-  url: 'https://ANnianExplorer.github.io/BlogANnian',
+  url: 'https://ANnianExplorer.github.io/BlogANnian/',
   lang: 'zh-CN',
   title: 'ANnianExplorer の博客',
   subtitle: 'Welcome to my blog',
