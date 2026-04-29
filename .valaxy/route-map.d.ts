@@ -72,6 +72,13 @@ declare module 'vue-router/auto-routes' {
       { page: ParamValue<false> },
       | never
     >,
+    '/posts/使用Opencode构建Valaxy博客全记录': RouteRecordInfo<
+      '/posts/使用Opencode构建Valaxy博客全记录',
+      '/posts/%E4%BD%BF%E7%94%A8Opencode%E6%9E%84%E5%BB%BAValaxy%E5%8D%9A%E5%AE%A2%E5%85%A8%E8%AE%B0%E5%BD%95',
+      Record<never, never>,
+      Record<never, never>,
+      | never
+    >,
     '/posts/在调用智谱AI的过程中遇到的问题': RouteRecordInfo<
       '/posts/在调用智谱AI的过程中遇到的问题',
       '/posts/%E5%9C%A8%E8%B0%83%E7%94%A8%E6%99%BA%E8%B0%B1AI%E7%9A%84%E8%BF%87%E7%A8%8B%E4%B8%AD%E9%81%87%E5%88%B0%E7%9A%84%E9%97%AE%E9%A2%98',
@@ -160,6 +167,12 @@ declare module 'vue-router/auto-routes' {
     'node_modules/valaxy-theme-sakura/pages/page/[page].vue': {
       routes:
         | '/page/[page]'
+      views:
+        | never
+    }
+    'pages/posts/使用Opencode构建Valaxy博客全记录.md': {
+      routes:
+        | '/posts/使用Opencode构建Valaxy博客全记录'
       views:
         | never
     }
