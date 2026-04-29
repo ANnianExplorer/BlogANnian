@@ -3,7 +3,9 @@ import { defineValaxyConfig } from 'valaxy'
 
 export default defineValaxyConfig<ThemeUserConfig>({
   theme: 'sakura',
-  base: '/BlogANnian/',
+  vite: {
+    base: '/BlogANnian/',
+  },
   themeConfig: {
     ui: {
       primary: '#2563eb',
@@ -12,10 +14,10 @@ export default defineValaxyConfig<ThemeUserConfig>({
       title: 'ANnianExplorer',
       motto: '欢迎来到我的博客',
       urls: [
-        '/images/background/index.jpg',
-        '/images/background/pexels-splitshire-1561.jpg',
-        '/images/background/pexels-splitshire-1562.jpg',
-        '/images/background/pexels-eberhardgross-858115.jpg',
+        '/BlogANnian/images/background/index.jpg',
+        '/BlogANnian/images/background/pexels-splitshire-1561.jpg',
+        '/BlogANnian/images/background/pexels-splitshire-1562.jpg',
+        '/BlogANnian/images/background/pexels-eberhardgross-858115.jpg',
       ],
       style: 'dim',
     },
@@ -80,7 +82,7 @@ export default defineValaxyConfig<ThemeUserConfig>({
       rainbow: true,
     },
     postList: {
-      defaultImage: '/images/background/index.jpg',
+      defaultImage: '/BlogANnian/images/background/index.jpg',
     },
   },
 })

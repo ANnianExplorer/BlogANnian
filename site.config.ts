@@ -7,7 +7,7 @@ export default defineSiteConfig({
   subtitle: 'Welcome to my blog',
   author: {
     name: 'ANnianExplorer',
-    avatar: '/images/avatar/1.png',
+    avatar: '/BlogANnian/images/avatar/1.png',
     intro: '一个热爱技术和二次元的开发者',
   },
   description: 'ANnianExplorer 的个人博客',

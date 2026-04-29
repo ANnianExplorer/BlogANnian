@@ -1,7 +1,7 @@
 ---
 title: 关于
 layout: page
-cover: /images/background/about.png
+cover: /BlogANnian/images/background/about.png
 ---
 
 <script setup>

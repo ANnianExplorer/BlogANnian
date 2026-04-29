@@ -5,7 +5,7 @@ tags:
   - github
 categories:
   - 技术
-cover: /images/cover/2026-04-29_21-43-38.png
+cover: /BlogANnian/images/cover/2026-04-29_21-43-38.png
 description: Solution for GitHub account email mismatch
 ---
 

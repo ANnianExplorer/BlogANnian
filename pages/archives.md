@@ -1,5 +1,5 @@
 ---
 title: 归档
 layout: archives
-cover: /images/background/pexels-splitshire-1561.jpg
+cover: /BlogANnian/images/background/pexels-splitshire-1561.jpg
 ---
