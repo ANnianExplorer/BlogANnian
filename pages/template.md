@@ -6,7 +6,7 @@ tags:
   - 标签2
 categories:
   - 分类
-cover: /images/cover/{{cover}}
+cover: /BlogANnian/images/cover/
 description: 文章描述
 ---
 

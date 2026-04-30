@@ -3,6 +3,7 @@ import { defineSiteConfig } from 'valaxy'
 export default defineSiteConfig({
   url: 'https://ANnianExplorer.github.io/BlogANnian/',
   lang: 'zh-CN',
+  favicon: '/images/logo/logo. png',
   title: 'ANnianExplorer の博客',
   subtitle: 'Welcome to my blog',
   author: {
