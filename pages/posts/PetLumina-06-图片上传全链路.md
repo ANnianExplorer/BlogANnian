@@ -1,6 +1,6 @@
 ---
 title: PetLumina 06 — 图片上传全链路（COS 存储 + Magic Byte 验证 + 路径分类）
-date: 2026-06-07
+date: 2026-05-26
 tags:
   - PetLumina
   - 腾讯云COS
@@ -9,7 +9,7 @@ tags:
   - AI开发
 categories:
   - 项目实战
-cover: /images/cover/petlumina/web/add-pet.png
+cover: /BlogANnian/images/cover/petlumina/web/add-pet.png
 description: 实现完整的文件上传链路：前端上传 → 后端接收 → 魔数校验 → 临时文件 → COS 上传 → 返回 URL。深入分析 Magic Byte 验证原理和 COS 路径分类设计。
 ---
 
@@ -339,5 +339,3 @@ v2.4 完成了完整的文件上传链路。
 
 ---
 
-> 上一篇：[PetLumina 05 — App 端 UI 效果应用](/posts/PetLumina-05-App端UI效果应用)
-> 下一篇：[PetLumina 07 — 宠物管理与大数精度修复](/posts/PetLumina-07-宠物管理与大数修复)

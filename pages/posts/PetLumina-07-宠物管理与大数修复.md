@@ -1,6 +1,6 @@
 ---
 title: PetLumina 07 — 宠物管理升级与 JavaScript 大数精度修复
-date: 2026-06-07
+date: 2026-05-27
 tags:
   - PetLumina
   - JavaScript
@@ -9,7 +9,7 @@ tags:
   - AI开发
 categories:
   - 项目实战
-cover: /images/cover/petlumina/app/pet-detail.png
+cover: /BlogANnian/images/cover/petlumina/app/pet-detail.png
 description: 宠物管理功能全面升级的过程中，发现并彻底解决 JavaScript 大数精度丢失问题。深入分析 Number.MAX_SAFE_INTEGER 限制、后端 Long→String 序列化、前端正则 JSON 解析方案。
 ---
 
@@ -227,5 +227,3 @@ v2.5 完成了宠物管理升级和大数精度修复。
 
 ---
 
-> 上一篇：[PetLumina 06 — 图片上传全链路](/posts/PetLumina-06-图片上传全链路)
-> 下一篇：[PetLumina 08 — 通知系统与搜索修复](/posts/PetLumina-08-通知系统与搜索修复)

@@ -1,6 +1,6 @@
 ---
 title: PetLumina 05 — App 端 UI 效果应用（果冻动画 + 玻璃态 + Vant 覆盖）
-date: 2026-06-07
+date: 2026-05-24
 tags:
   - PetLumina
   - Vant
@@ -9,7 +9,7 @@ tags:
   - AI开发
 categories:
   - 项目实战
-cover: /images/cover/petlumina/app/community.png
+cover: /BlogANnian/images/cover/petlumina/app/community.png
 description: 将管理后台的玻璃态、果冻动画效果同步到移动端 App，适配 Vant 组件样式，处理移动端特有的触摸反馈和性能问题。
 ---
 
@@ -222,5 +222,3 @@ v2.2-app 和 v2.3 完成了 App 端的 UI 效果应用。
 
 ---
 
-> 上一篇：[PetLumina 04 — 管理后台 UI 全面升级](/posts/PetLumina-04-管理后台UI全面升级)
-> 下一篇：[PetLumina 06 — 图片上传全链路](/posts/PetLumina-06-图片上传全链路)

@@ -9,7 +9,7 @@ tags:
   - 全栈开发
 categories:
   - 项目实战
-cover: /images/cover/petlumina/web/dashboard.png
+cover: /BlogANnian/images/cover/petlumina/web/dashboard.png
 description: PetLumina 宠物生活管理平台完整成果展示，涵盖用户端 App、Web 管理后台、Java 后端服务三端架构。
 ---
 
@@ -31,7 +31,7 @@ PetLumina 是一个宠物生活管理平台，帮助宠物主人管理宠物档�
 
 ### 2.1 用户端 App
 
-![首页](/images/cover/petlumina/app/home.png)
+![首页](/BlogANnian/images/cover/petlumina/app/home.png)
 
 - **宠物档案管理**：添加/编辑宠物信息，头像上传，类型选择（猫/狗/其他）
 - **健康数据追踪**：体重、体温、疫苗、驱虫记录的导入和查看
@@ -42,7 +42,7 @@ PetLumina 是一个宠物生活管理平台，帮助宠物主人管理宠物档�
 
 ### 2.2 Web 管理后台
 
-![数据概览](/images/cover/petlumina/web/dashboard.png)
+![数据概览](/BlogANnian/images/cover/petlumina/web/dashboard.png)
 
 - **数据概览**：用户增长、宠物统计、活跃度趋势的可视化仪表盘
 - **用户管理**：用户列表、搜索、详情查看、状态管理
@@ -91,30 +91,30 @@ PetLumina 是一个宠物生活管理平台，帮助宠物主人管理宠物档�
 
 | 页面 | 截图 |
 |---|---|
-| 登录页 | ![登录](/images/cover/petlumina/app/login.png) |
-| 首页 | ![首页](/images/cover/petlumina/app/home.png) |
-| 宠物详情 | ![宠物详情](/images/cover/petlumina/app/pet-detail.png) |
-| 宠物社区 | ![社区](/images/cover/petlumina/app/community.png) |
-| 话题详情 | ![话题](/images/cover/petlumina/app/topic-detail.png) |
-| 饮食健康 | ![饮食](/images/cover/petlumina/app/diet-health.png) |
-| 导入健康数据 | ![导入](/images/cover/petlumina/app/health-import.png) |
-| 生活记录 | ![记录](/images/cover/petlumina/app/life-log.png) |
-| 新增提醒 | ![提醒](/images/cover/petlumina/app/add-reminder.png) |
-| 个人中心 | ![个人中心](/images/cover/petlumina/app/profile.png) |
+| 登录页 | ![登录](/BlogANnian/images/cover/petlumina/app/login.png) |
+| 首页 | ![首页](/BlogANnian/images/cover/petlumina/app/home.png) |
+| 宠物详情 | ![宠物详情](/BlogANnian/images/cover/petlumina/app/pet-detail.png) |
+| 宠物社区 | ![社区](/BlogANnian/images/cover/petlumina/app/community.png) |
+| 话题详情 | ![话题](/BlogANnian/images/cover/petlumina/app/topic-detail.png) |
+| 饮食健康 | ![饮食](/BlogANnian/images/cover/petlumina/app/diet-health.png) |
+| 导入健康数据 | ![导入](/BlogANnian/images/cover/petlumina/app/health-import.png) |
+| 生活记录 | ![记录](/BlogANnian/images/cover/petlumina/app/life-log.png) |
+| 新增提醒 | ![提醒](/BlogANnian/images/cover/petlumina/app/add-reminder.png) |
+| 个人中心 | ![个人中心](/BlogANnian/images/cover/petlumina/app/profile.png) |
 
 ## 五、Web 管理后台页面展示
 
 | 页面 | 截图 |
 |---|---|
-| 数据概览 | ![仪表盘](/images/cover/petlumina/web/dashboard.png) |
-| 用户管理 | ![用户](/images/cover/petlumina/web/user-manage.png) |
-| 宠物管理 | ![宠物](/images/cover/petlumina/web/pet-manage.png) |
-| 添加宠物 | ![添加](/images/cover/petlumina/web/add-pet.png) |
-| 健康数据 | ![健康](/images/cover/petlumina/web/health-data.png) |
-| 帖子详情 | ![帖子](/images/cover/petlumina/web/post-detail.png) |
-| 话题管理 | ![话题](/images/cover/petlumina/web/topic-manage.png) |
-| 违规管理 | ![违规](/images/cover/petlumina/web/violation-manage.png) |
-| 系统设置 | ![设置](/images/cover/petlumina/web/settings.png) |
+| 数据概览 | ![仪表盘](/BlogANnian/images/cover/petlumina/web/dashboard.png) |
+| 用户管理 | ![用户](/BlogANnian/images/cover/petlumina/web/user-manage.png) |
+| 宠物管理 | ![宠物](/BlogANnian/images/cover/petlumina/web/pet-manage.png) |
+| 添加宠物 | ![添加](/BlogANnian/images/cover/petlumina/web/add-pet.png) |
+| 健康数据 | ![健康](/BlogANnian/images/cover/petlumina/web/health-data.png) |
+| 帖子详情 | ![帖子](/BlogANnian/images/cover/petlumina/web/post-detail.png) |
+| 话题管理 | ![话题](/BlogANnian/images/cover/petlumina/web/topic-manage.png) |
+| 违规管理 | ![违规](/BlogANnian/images/cover/petlumina/web/violation-manage.png) |
+| 系统设置 | ![设置](/BlogANnian/images/cover/petlumina/web/settings.png) |
 
 ## 六、版本迭代历程
 
@@ -138,4 +138,3 @@ PetLumina 是一个宠物生活管理平台，帮助宠物主人管理宠物档�
 
 ---
 
-> 下一篇：[PetLumina 01 — 项目初始化与 App 端 Mock 开发](/posts/PetLumina-01-项目初始化与Mock开发)

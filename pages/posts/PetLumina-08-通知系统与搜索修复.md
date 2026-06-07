@@ -1,6 +1,6 @@
 ---
 title: PetLumina 08 — 通知系统与搜索功能修复（广播机制 + 已读状态 + 参数对齐）
-date: 2026-06-07
+date: 2026-05-29
 tags:
   - PetLumina
   - 通知系统
@@ -9,7 +9,7 @@ tags:
   - AI开发
 categories:
   - 项目实战
-cover: /images/cover/petlumina/web/health-data.png
+cover: /BlogANnian/images/cover/petlumina/web/health-data.png
 description: 实现完整的通知系统：Admin 发布广播通知 → 用户接收 → 已读状态管理。修复所有页面的搜索筛选功能，解决前后端参数名不匹配问题。
 ---
 
@@ -346,5 +346,3 @@ v2.6 完成了通知系统和搜索修复。
 
 ---
 
-> 上一篇：[PetLumina 07 — 宠物管理与大数修复](/posts/PetLumina-07-宠物管理与大数修复)
-> 下一篇：[PetLumina 09 — 日期格式化与通知详情完善](/posts/PetLumina-09-日期格式化与通知详情)

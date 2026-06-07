@@ -1,6 +1,6 @@
 ---
 title: PetLumina 04 — 管理后台 UI 全面升级（玻璃态 + 果冻动画 + 胶囊布局）
-date: 2026-06-07
+date: 2026-05-23
 tags:
   - PetLumina
   - Tailwind CSS
@@ -9,7 +9,7 @@ tags:
   - AI开发
 categories:
   - 项目实战
-cover: /images/cover/petlumina/web/settings.png
+cover: /BlogANnian/images/cover/petlumina/web/settings.png
 description: 管理后台 UI 大升级，引入三层玻璃态面板系统、果冻弹性动画、胶囊导航布局，形成统一的视觉语言。
 ---
 
@@ -273,5 +273,3 @@ v2.2 完成了管理后台的 UI 系统升级。
 
 ---
 
-> 上一篇：[PetLumina 03 — 后端重构与 Web 管理后台](/posts/PetLumina-03-后端重构与Web管理后台)
-> 下一篇：[PetLumina 05 — App 端 UI 效果应用](/posts/PetLumina-05-App端UI效果应用)

@@ -1,6 +1,6 @@
 ---
 title: PetLumina 09 — 全局日期格式化与通知详情完善（v2.7 收官）
-date: 2026-06-07
+date: 2026-06-04
 tags:
   - PetLumina
   - 日期格式化
@@ -9,7 +9,7 @@ tags:
   - AI开发
 categories:
   - 项目实战
-cover: /images/cover/petlumina/app/profile.png
+cover: /BlogANnian/images/cover/petlumina/app/profile.png
 description: 统一前后端日期格式，完善通知详情功能，App 端未读通知数管理，路由初始化优化。v2.7 版本收官。
 ---
 
@@ -296,5 +296,3 @@ git push origin main --tags
 
 ---
 
-> 上一篇：[PetLumina 08 — 通知系统与搜索修复](/posts/PetLumina-08-通知系统与搜索修复)
-> 返回：[PetLumina 00 — 项目成果展示](/posts/PetLumina-00-项目成果展示)

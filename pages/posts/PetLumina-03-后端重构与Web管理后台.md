@@ -1,6 +1,6 @@
 ---
 title: PetLumina 03 — 后端目录重构与 Web 管理后台搭建
-date: 2026-06-07
+date: 2026-05-22
 tags:
   - PetLumina
   - Element Plus
@@ -9,7 +9,7 @@ tags:
   - AI开发
 categories:
   - 项目实战
-cover: /images/cover/petlumina/web/user-manage.png
+cover: /BlogANnian/images/cover/petlumina/web/user-manage.png
 description: 后端按 admin/user 分离 Controller，搭建 Vue 3 + Element Plus Web 管理后台，实现用户管理、宠物管理等基础 CRUD。
 ---
 
@@ -292,5 +292,3 @@ v2.1 完成了后端目录规范化和管理后台基础搭建。
 
 ---
 
-> 上一篇：[PetLumina 02 — 后端开发与前后端联调](/posts/PetLumina-02-后端开发与前后端联调)
-> 下一篇：[PetLumina 04 — 管理后台 UI 全面升级](/posts/PetLumina-04-管理后台UI全面升级)

@@ -1,6 +1,6 @@
 ---
 title: PetLumina 01 — 项目初始化与 App 端 Mock 开发
-date: 2026-06-07
+date: 2026-05-20
 tags:
   - PetLumina
   - Vue 3
@@ -9,7 +9,7 @@ tags:
   - AI开发
 categories:
   - 项目实战
-cover: /images/cover/petlumina/app/login.png
+cover: /BlogANnian/images/cover/petlumina/app/login.png
 description: 从零搭建 PetLumina 移动端项目，使用 Vite + Vue 3 + Vant 4 + Tailwind CSS 3，以 Mock 数据驱动完成所有页面开发。
 ---
 
@@ -276,4 +276,3 @@ v1.0 完成了项目骨架搭建和所有页面的 Mock 开发。
 
 ---
 
-> 下一篇：[PetLumina 02 — Spring Boot 后端开发与前后端联调](/posts/PetLumina-02-后端开发与前后端联调)

@@ -9,7 +9,7 @@ tags:
   - AI开发
 categories:
   - 项目实战
-cover: /images/cover/petlumina/app/home.png
+cover: /BlogANnian/images/cover/petlumina/app/home.png
 description: 使用 Spring Boot 2.7 + MyBatis-Plus 3.5 + Sa-Token 1.39 搭建后端服务，完成数据库设计、统一认证、接口规范，并与前端联调。
 ---
 
@@ -382,5 +382,3 @@ v2.0 完成了后端基础框架搭建和前后端联调。
 
 ---
 
-> 上一篇：[PetLumina 01 — 项目初始化与 Mock 开发](/posts/PetLumina-01-项目初始化与Mock开发)
-> 下一篇：[PetLumina 03 — 后端目录重构与 Web 管理后台](/posts/PetLumina-03-后端重构与Web管理后台)
